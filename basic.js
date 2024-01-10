@@ -6,6 +6,7 @@ const person = {
     console.log(this.name);
     console.log("hai");
     console.log("hai1");
+    console.log("hiii");
   },
 };
 
