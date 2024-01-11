@@ -4,8 +4,6 @@ const person = {
   showName() {
     console.log(this);
     console.log(this.name);
-    var a = 10;
-    console.log("10");
   },
   showID() {
     console.log("added ID");
