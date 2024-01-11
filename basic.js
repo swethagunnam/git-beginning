@@ -7,6 +7,10 @@ const person = {
     var a = 10;
     console.log("10");
   },
+  showID() {
+    console.log("added ID");
+    console.log("added ID2");
+  },
 };
 
 person.showName();
