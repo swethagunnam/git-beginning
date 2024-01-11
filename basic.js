@@ -5,6 +5,9 @@ const person = {
     console.log(this);
     console.log(this.name);
   },
+  showID() {
+    console.log("added ID");
+  },
 };
 
 person.showName();
