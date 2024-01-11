@@ -7,6 +7,9 @@ const person = {
     var a = 10;
     console.log("hai");
   },
+  showId() {
+    console.log("ID");
+  },
 };
 
 person.showName();
