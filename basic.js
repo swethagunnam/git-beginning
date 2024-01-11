@@ -5,6 +5,7 @@ const person = {
     console.log(this);
     console.log(this.name);
     var a = 10;
+    console.log("10");
   },
 };
 
