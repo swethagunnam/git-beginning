@@ -7,6 +7,7 @@ const person = {
   },
   showID() {
     console.log("added ID");
+    console.log("added ID2");
   },
 };
 
