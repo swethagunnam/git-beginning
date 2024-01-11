@@ -4,11 +4,6 @@ const person = {
   showName() {
     console.log(this);
     console.log(this.name);
-    var a = 10;
-    console.log("hai");
-  },
-  showId() {
-    console.log("ID");
   },
 };
 
